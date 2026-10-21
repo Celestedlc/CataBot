@@ -1,2 +1,2 @@
 # CataBot
-A Personal Assistant Project that follows rules that LLMs don't. Something like JARVIS from Marvel universe
+A Personal Assistant Agent designed to work inside a Raspberry Pi Zero2W running locally using TensorFlow Lite.
