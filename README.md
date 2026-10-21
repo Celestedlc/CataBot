@@ -9,7 +9,7 @@ To-Do list:
 - [] Voice Commands
 - [] TTS
 
+
 This version has responses to "hello" and "bye". 
 To train the model locally, run rawBuild.py
 You can use the included cataBot.tflite with client.py to try it.
-
